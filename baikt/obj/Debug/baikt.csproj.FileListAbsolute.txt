@@ -1,0 +1,13 @@
+D:\Project\baikt\baikt\bin\Debug\baikt.exe.config
+D:\Project\baikt\baikt\obj\Debug\baikt.csprojResolveAssemblyReference.cache
+D:\Project\baikt\baikt\obj\Debug\baikt.Form1.resources
+D:\Project\baikt\baikt\obj\Debug\baikt.Properties.Resources.resources
+D:\Project\baikt\baikt\obj\Debug\baikt.csproj.GenerateResource.Cache
+D:\Project\baikt\baikt\bin\Debug\baikt.exe
+D:\Project\baikt\baikt\bin\Debug\baikt.pdb
+D:\Project\baikt\baikt\bin\Debug\EntityFramework.dll
+D:\Project\baikt\baikt\bin\Debug\EntityFramework.SqlServer.dll
+D:\Project\baikt\baikt\bin\Debug\EntityFramework.xml
+D:\Project\baikt\baikt\bin\Debug\EntityFramework.SqlServer.xml
+D:\Project\baikt\baikt\obj\Debug\baikt.exe
+D:\Project\baikt\baikt\obj\Debug\baikt.pdb
